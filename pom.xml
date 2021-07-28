@@ -33,7 +33,6 @@
 		    <groupId>javax.servlet</groupId>
 		    <artifactId>jstl</artifactId>
 		    <version>${jstl.version}</version> <!-- just used the latest version, make sure you use the one you need -->
-		    <scope>provided</scope>
 		</dependency>
 	</dependencies>
 
